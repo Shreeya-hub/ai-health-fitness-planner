@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+patient_data/
+progress.csv
+.DS_Store
