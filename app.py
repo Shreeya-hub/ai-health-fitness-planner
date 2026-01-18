@@ -6,6 +6,7 @@ import matplotlib.patches as mpatches
 import os
 from datetime import datetime
 from groq import Groq
+from dotenv import load_dotenv
 import re
 
 st.set_page_config(
